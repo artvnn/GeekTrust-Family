@@ -1,0 +1,161 @@
+{
+    "name": "King Shan",
+    "gender": "m",
+    "id": 1,
+    "spouse": {
+        "name": "Queen Anga",
+        "gender": "f",
+        "id": 2
+    },
+    "children": [
+        {
+            "name": "Ish",
+            "gender": "m",
+            "id": 3
+        },
+        {
+            "name": "Chit",
+            "gender": "m",
+            "id": 4,
+            "spouse": {
+                "name": "Ambi",
+                "gender": "f",
+                "id": 5
+            },
+            "children": [
+                {
+                    "name": "Drita",
+                    "gender": "m",
+                    "id": 6,
+                    "spouse": {
+                        "name": "Jaya",
+                        "gender": "f",
+                        "id": 7
+                    },
+                    "children": [
+                        {
+                            "name": "Jata",
+                            "gender": "m",
+                            "id": 8
+                        },
+                        {
+                            "name": "Driya",
+                            "gender": "f",
+                            "id": 9,
+                            "spouse": {
+                                "name": "Mnu",
+                                "gender": "m",
+                                "id": 10
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "Vrita",
+                    "gender": "m",
+                    "id": 11
+                }
+            ]
+        },
+        {
+            "name": "Vich",
+            "gender": "m",
+            "id": 12,
+            "spouse": {
+                "name": "Lika",
+                "gender": "f",
+                "id": 13
+            },
+            "children": [
+                {
+                    "name": "Vila",
+                    "gender": "m",
+                    "id": 14,
+                    "spouse": {
+                        "name": "Jnki",
+                        "gender": "f",
+                        "id": 15
+                    },
+                    "children": [
+                        {
+                            "name": "Lavnya",
+                            "gender": "f",
+                            "id": 16,
+                            "spouse": {
+                                "name": "Gru",
+                                "gender": "m",
+                                "id": 17
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "Chika",
+                    "gender": "f",
+                    "id": 18,
+                    "spouse": {
+                        "name": "Kpila",
+                        "gender": "m",
+                        "id": 19
+                    }
+                }
+            ]
+        },
+        {
+            "name": "Satya",
+            "gender": "f",
+            "id": 20,
+            "spouse": {
+                "name": "Vyan",
+                "gender": "m",
+                "id": 21
+            },
+            "children": [
+                {
+                    "name": "Satvy",
+                    "gender": "f",
+                    "id": 22,
+                    "spouse": {
+                        "name": "Asva",
+                        "gender": "m",
+                        "id": 23
+                    }
+                },
+                {
+                    "name": "Savya",
+                    "gender": "m",
+                    "id": 24,
+                    "spouse": {
+                        "name": "Krpi",
+                        "gender": "f",
+                        "id": 25
+                    },
+                    "children": [
+                        {
+                            "name": "Kriya",
+                            "gender": "m",
+                            "id": 26
+                        }
+                    ]
+                },
+                {
+                    "name": "Saayan",
+                    "gender": "m",
+                    "id": 27,
+                    "spouse": {
+                        "name": "Mina",
+                        "gender": "f",
+                        "id": 28
+                    },
+                    "children": [
+                        {
+                            "name": "Misa",
+                            "gender": "m",
+                            "id": 29
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

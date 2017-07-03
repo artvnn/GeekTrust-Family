@@ -1,0 +1,8 @@
+{
+	"verbose": true,
+	"ignore": [
+		"family-tree.json",
+		"family-tree.txt",
+		"storage.json"
+	]
+}

@@ -1,0 +1,31 @@
+//
+// Seed data
+// Format:
+//		<name>
+//		or
+// 		<name>:<gender>
+// 		or
+// 		<name>:<gender>-<spouse's name>
+//		assumption: same gender marriages are not allowed!
+// 		<parents>
+// 		<tab><child#1>
+// 		<tab><child#2>
+// 		and so on
+//
+King Shan-Queen Anga
+	Ish
+	Chit-Ambi
+		Drita-Jaya
+			Jata
+			Driya:f-Mnu
+		Vrita
+	Vich-Lika
+		Vila-Jnki
+			Lavnya:f-Gru
+		Chika:f-Kpila
+	Satya:f-Vyan
+		Satvy:f-Asva
+		Savya-Krpi
+			Kriya
+		Saayan-Mina
+			Misa
